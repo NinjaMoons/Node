@@ -1,0 +1,15 @@
+{
+  "name": "1.1",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node --watch ./main.js",
+    "serve": "node ./main.js"
+  },
+  "author": "Pavel Shivanko",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
